@@ -3,7 +3,7 @@
 <h3 align="center">Data analyst skilled in SQL, Excel, Power BI, Tableau, and Python, with a focus on delivering actionable insights and driving data-driven decisions.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🌱 My **Portfolio Projects** are in: [Data Analyst Projects Repo.](https://github.com/PriyankaJhaTheAnalyst/Portfolio-Projects)
+- 🌱 My **Portfolio Projects** are in: [Data Analyst Projects Repo.](https://github.com/PreethiGomathy/Data-Analyst-projects.git)
 
 - 📫 Email me at: **mpreethi20021@gmail.com**
 
