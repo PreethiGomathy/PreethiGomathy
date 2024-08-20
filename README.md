@@ -9,6 +9,9 @@
 
 - 📫 Email me at: **mpreethi20021@gmail.com**
 
+- 📄 Download my resume: [<img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" alt="google drive" width="20" height="20"/> Resume](https://drive.google.com/uc?export=download&id=11dUVDoeBEJJ-ZnHrRxMeE1GYOzJdqXSo)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/preethigomathym" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preethigomathy" height="30" width="40" /></a>
