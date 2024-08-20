@@ -1,11 +1,11 @@
 <img src="https://drive.google.com/uc?export=view&id=11dUVDoeBEJJ-ZnHrRxMeE1GYOzJdqXSo" width="840" height="200" allow="autoplay">
 <h1 align="center">Hi 👋, I'm Preethi Gomathy.</h1>
-<h3 align="center">A Data Detective with a penchant for crunching numbers and believes in Data for Good.</h3>
+<h3 align="center">Data analyst skilled in SQL, Excel, Power BI, Tableau, and Python, with a focus on delivering actionable insights and driving data-driven decisions.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 🌱 My **Portfolio Projects** are in: [Data Analyst Projects Repo.](https://github.com/PriyankaJhaTheAnalyst/Portfolio-Projects)
 
-- 👨‍💻 My **Tableau** Projects are at: [Priyanka Jha - Tableau Public](https://public.tableau.com/app/profile/preethi.gomathy)
+- 👨‍💻 My **Tableau** Projects are at: [Preethi Gomathy - Tableau Public](https://public.tableau.com/app/profile/preethi.gomathy)
 
 - 📫 Email me at: **mpreethi20021@gmail.com**
 
