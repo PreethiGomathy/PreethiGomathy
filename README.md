@@ -1,11 +1,7 @@
-<img src="https://drive.google.com/uc?export=view&id=1CAMDliFVQ_wKYQFen1ZLJziImIPnXcmY" width="840" height="200" allow="autoplay">
-<h1 align="center">Hi 👋, I'm Priyanka Jha.</h1>
+<img src="https://drive.google.com/uc?export=view&id=11dUVDoeBEJJ-ZnHrRxMeE1GYOzJdqXSo" width="840" height="200" allow="autoplay">
+<h1 align="center">Hi 👋, I'm Preethi Gomathy.</h1>
 <h3 align="center">A Data Detective with a penchant for crunching numbers and believes in Data for Good.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-
-- 🔭 Learn **Python Libraries: pandas, numpy, matplotlib, seaborn, plotly, cufflinks, BeautifulSoup, DateTime.** from: [My Python Libraries Tutorials](https://github.com/PriyankaJhaTheAnalyst/PythonLibrariesTutorials)
-
-- 📝 Take a look at my **Personal** Website: [www.priyankajha24.wixsite.com](https://priyankajha24.wixsite.com/aboutme)
 
 - 🌱 My **Portfolio Projects** are in: [Data Analyst Projects Repo.](https://github.com/PriyankaJhaTheAnalyst/Portfolio-Projects)
 
