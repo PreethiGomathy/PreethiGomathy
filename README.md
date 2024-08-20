@@ -5,8 +5,6 @@
 
 - 🌱 My **Portfolio Projects** are in: [Data Analyst Projects Repo.](https://github.com/PriyankaJhaTheAnalyst/Portfolio-Projects)
 
-- 👨‍💻 My **Tableau** Projects are at: [Preethi Gomathy - Tableau Public](https://public.tableau.com/app/profile/preethi.gomathy)
-
 - 📫 Email me at: **mpreethi20021@gmail.com**
 
 - 📄 View my resume: [<img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" alt="google drive" width="20" height="20"/> Resume](https://drive.google.com/file/d/1sTBOl-rTqEfkGoEjw701aWEwJrtppAAw/view?usp=sharing)
