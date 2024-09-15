@@ -7,7 +7,7 @@
 
 - 📫 Email me at: **mpreethi20021@gmail.com**
 
-- 📄 View my resume: [<img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" alt="google drive" width="20" height="20"/> Resume](https://drive.google.com/file/d/1sTBOl-rTqEfkGoEjw701aWEwJrtppAAw/view?usp=sharing)
+- 📄 View my resume: [<img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" alt="google drive" width="20" height="20"/> Resume](https://drive.google.com/file/d/1q0j-yPjw5_hRsr1klOGcyj70QJQ2LdQZ/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
